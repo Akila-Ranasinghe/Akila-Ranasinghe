@@ -66,10 +66,10 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/akilaranasinghe" target="_blank">
+  <a href="https://www.linkedin.com/in/akilaranasinghe" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/AP_Ranasinghe" target="_blank">
+  <a href="https://twitter.com/AP_Ranasinghe" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="mailto:wmakilaranasinghe@gmail.com">
